@@ -1,0 +1,36 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.photo1{
+  background-image: url(https://www.pakutaso.com/shared/img/thumb/ELFADSC08904_TP_V.jpg);
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+.photo2{
+ background-image: url(https://www.pakutaso.com/shared/img/thumb/140726567610_TP_V.jpg);
+ width: 100%;
+ height: 200px;
+ background-position: center;
+ background-size: cover;
+}
+
+.photo3{
+  background-image: url(https://www.pakutaso.com/shared/img/thumb/Yamasha17826002_TP_V.jpg);
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+.photo4{
+  background-image: url(https://www.pakutaso.com/shared/img/thumb/006Yamasha1218_TP_V.jpg);
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
